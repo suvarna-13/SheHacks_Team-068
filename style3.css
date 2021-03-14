@@ -15,7 +15,7 @@ body{
 
 }
 header {
-    background: url("C:\Users\Akshata A Bhat\Downloads\erol-ahmed-IHL-Jbawvvo-unsplash.jpg");
+    background: url("erol-ahmed-IHL-Jbawvvo-unsplash.jpg");
 	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url();
 	height: 100vh;
 	-webkit-background-size: cover;
@@ -38,9 +38,13 @@ h1{
     letter-spacing: 1px;
     margin-bottom: 2rem;
 }
-
+.image{
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+}
 p{
-    font-size: 2rem;
+    font-size: 8rem;
+    line-height: 5em;
     font-family: "Times New Roman", Times, serif;
     color:rgb(17, 9, 9);
     line-height: 5rem;
@@ -50,8 +54,8 @@ p{
 header {
 	background: linear-gradient(rgba(19, 12, 12, 0.2), rgba(0, 0, 0, 0.2)), url(mona-eendra-vC8wj_Kphak-unsplash.jpg);
 	height: 100vh;
+	-webkit-background-size: cover;
 	background-size: cover;
-	background-size: cover;
-	background-position:  center;
+	background-position: center center;
 	position: relative;
 }
