@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+body{
+    background-image: url("divyanshi-verma-L_jYIr575f4-unsplash.jpg");
+    background-position: center center;
+    background-size: cover;
+    font-family: sans-serif;
+    margin-top: 40px;
+}
+.login-box{
+    max-width: 700px;
+    height: 500px;
+    float: none;
+    margin: 300px auto;
+
+}
+.login-left{
+    background: white;
+    position: center;
+    padding: 100px;
+    color: white;
+}
+
+.login-right{
+    background: transparent;
+    padding: 100px;
+}
+.form-control{
+    background-color: transparent  !important;
+}
